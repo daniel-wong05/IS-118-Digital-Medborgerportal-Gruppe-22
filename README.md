@@ -2,4 +2,4 @@
 
 **Oppgave om Digital Medborgerportal**
 
-Vi har jobbet med å lage en "oppstartspakke" for Erling som er prosjekt leder i Digital utvikling. Han har fått som oppgave å utvikle en medborger portal på 15 månder, Vi skal derfor lage en strukturert plan med råd og anbefalinger som han kan bruke.
+Vi har jobbet med å bygge en strukturert “oppstartspakke” for Erling, prosjektleder i Digital utvikling. Han har fått i oppdrag å utvikle en medborgerportal innen 15 måneder. Vår oppgave er derfor å utarbeide en gjennomførbar plan med råd, anbefalinger og forslag til hvordan prosjektet kan organiseres og gjennomføres på en effektiv måte.
