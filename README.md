@@ -1,4 +1,4 @@
-# ⭐ IS-118-Digital-Medborgerportal-Gruppe-22 ⭐
+# ⭐ IS-118 Digital Medborgerportal (Gruppe 22) ⭐
 
 
 **Oppgave om Digital Medborgerportal**
