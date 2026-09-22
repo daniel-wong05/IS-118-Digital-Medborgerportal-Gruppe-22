@@ -148,5 +148,5 @@ Med tanke på de utfordringene vi har kommet over så langt så tenker vi at gru
 
 Så langt i semesteret har vi konkludert med at vi må styrke vår kommunikasjon slik at vi kan få redegjort for konflikter før ulike utfordringer blir til større problemer. Likevel skal gruppen fortsette å holde den gode praten, vise respekt, og holde hverandre likeverd.  Videre arbeid blir å handle om å sikre fremtidig frafall for hvert enkelt medlem, respektere andres synspunkter, samt ikke overskride andres bidrag. Dette blir å gjelde til tross for at frister kan lage press for fullføring, noe som blant annet kan påvirke enkelte gruppemedlemmers respekt. Vi har også bestemt oss for å ha en sosial sammenkomst for å bli bedre kjent med hverandre på et personlig nivå. 
 
-**Referanseliste** 
+**Referanseliste:** 
 Jacobsen, D. I. (Kunnskapsdepartementet.). (2016) *Engangsorganisasjonen: Organisering og ledelse av prosjekter* (1.utg.). Fagbokforlaget.
