@@ -5,6 +5,30 @@
 
 Vi har jobbet med å bygge en strukturert “oppstartspakke” for Erling, prosjektleder i Digital utvikling. Han har fått i oppdrag å utvikle en medborgerportal innen 15 måneder. Vår oppgave er derfor å utarbeide en gjennomførbar plan med råd, anbefalinger og forslag til hvordan prosjektet kan organiseres og gjennomføres på en effektiv måte.
 
+**Strategi for rekruttering og sammensetning**
+
+Prosjektets krav til tverrfaglighet eller heterogenitet tyder på at dette gjelder et tidsbegrenset gruppearbeid der arbeide skal foregå flerfunksjonelt. For å skape en operativ prosjektgruppe trenger Erling å balansere ulike behov som kreves for å ferdigstille en kvalitetstjeneste med begrensinger på kostnad og tid. For dette trenger Erling å blande inn ulike roller fra flere organisatoriske enheter. (Jacobsen, 2016, s. 29-33). 
+
+På produksjonsnivå trenger oppdragsgiver å tilegne seg gode fagpersoner til prosjektet. Dette er personer med egenskaper til å fullføre oppgaver med driv, uten å avvike fra oppgavene sine. Disse arbeiderene blir derfor ansvarlige for å utvikle denne interaktive medborger portalen. (Jacobsen, 2016, s. 33).
+
+Prosjektarbeid krever også struktur. Det er derfor viktig at gruppen har noen som har oversikt, kan videreformidler informasjon, og delegere oppgaver. Administrasjonspersonell skal kunne sette i gang delmål å lage systemer som gjør større oppgaver oppnåelige. (Jacobsen, 2016, s. 33)
+
+Likevel blir det også viktig at gruppen har en balanse og et samspill. Derfor kan det være hensiktsmessig å utpeke en med ansvar for integrasjon, altså noen som kan sørge for at gruppens samspill fungerer godt på et sosialt nivå. Likevel kan det være fornuftig å gjøre en analytisk avgjørelse på prosjektets bemanningsgrense. (Jacobsen, 2016, s. 33)
+
+Nye prosjekter vil kunne kreve å ansette mennesker med evne til å tenke utenfor boksen. Personer som dette må også kunne gi klarsignal på visse områder, samt kunne si ifra når gruppen må stoppe opp. Dette er nytenkende individer som kan revidere arbeidet nøye når essensielle deler trenger mer oppmerksomhet. Og man kaller slike roller for entreprenører. (Jacobsen, 2016, s. 33)
+
+Prosjektet skaper et hierarkiets samspill som kan påvirke negativt på gruppens dynamikk. Derfor kan det være viktig å øke tillit mellom leddene i samarbeid slik at de kan lettere skape en viss tillit til hverandre. Dette kan være tilfellet dersom gruppene har en slags sosial og/eller demografisk likhet. Har disse medlemmene arbeidet sammen i tidligere prosjekter? Hvilke erfaringer har de fra dette? Hva har de til felles?
+
+For eksempel kan en organisasjon representere noe «kjent» som medarbeidere i prosjektet har forholdt seg til tidligere. Derfor kan det være et gode å hyre flere fra samme arbeidsplass som byr på noen like fellestrekk. Det kan eksempelvis være delte regler, representerte mål, og erfaringer med prosjektarbeid. Hvis Erling evaluerer alder og kjønn som mulig grunnlag for uenigheter så kan han for eksempel finne ut at store sprik kan skape en viss følge/lede kultur, eller i verste fall skape konflikter. Målet handler om å skape en slags tillit, uten at medarbeiderne selv bruker for mye ressurser på overvåkning og kontroll over andre. (Jacobsen, 2016, s. 34-35).
+
+
+**Rasjonelle kontrakter og rammer for utforming som kan styrke prosjektarbeidet.**
+
+Prosjektet har blitt tilegnet 15 måneder for å utvikle medborgerportalen. Derfor vil det være essensielt å se på de ulike partenes bidrag, samt hva slags type kvalitet som forventes til arbeidet som skal foregå fremover allerede i startfasen av prosjektet. Tradisjonelt brukes partnerskapskontrakter ofte i slike sammenhenger. Kvalitet og tid er en del av det vi kaller for jerntrianglet i slike kontrakten, men det samme gjelder også for prosjektets kostnader. Selve prosjektet til Erling har et budsjett på 8 millioner kroner. Dette gjelder ikke bare prosjektets kostnader i form av ressurser som skal brukes til medborgerprotalen, men også lønn til medarbeiderne i denne perioden. (Jacobsen, 2016, s. 43)
+
+Et prosjekt er også fordelt ut i flere faser, og ulike faser av utviklingsprosessen vil fremme ulike krav til bruk av ressurser. Derfor vil det være gunstig å evaluere hvilke faser av utviklingen som blir mest kostbare. Likevel kan nye prosjekter by på nye utfordringer både for tidsestimat og ressursbruk, og derfor vil det være gunstig for Erlend å estimere ressursbruk med et visst slingringsrom. (Jacobsen, 2016, s. 43). Skulle eventuelle overskridelser forekomme vil det derfor kunne være enklere å dokumentere tilbake til senere i prosessen. 
+
+Strenge rammeforhold vil ikke alltid by på bedre strukturert arbeid i prosjektsamarbeid. Prosjekter som byr på større risiko, trenger også å legge til en viss grad av fleksibilitet. Dette prosjektet vil kunne by på uventende konsekvenser grunnet blant annet tverrfaglig samarbeid, maktstruktur, og informasjonsflyt mellom leddene. Kontraktene bør derfor inkorporere vektlegging på rasjonelle forhold for å kunne håndtere flere uventede hendelser. Dette kalles å skape en rasjonell kontrakt. Og slike kontrakter tar for seg relasjonene i prosjektsamarbeidet. (Jacobsen, 2016, s. 44). 
 
 **Proaktive mekanismer for konflikthåndtering**
 Når man skal finne proaktive mekanismer og løsninger for konflikthåndteringen innad i gruppen til Erling skal det ses på konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenighetene det bidrar til at det utvikles konflikt i senere tid.
@@ -59,4 +83,11 @@ I det første møtet bør ikke Erling gå rett på sak om prosjektet, men heller
 **Åpenhet** – Alle forslag bør legges frem og snakkes om, slik som strategi, informasjon og uforutsett ting som kan bidra til prosjektet.
 (Jacobsen, 2016, s.82)
 
+**Evaluering av gruppearbeid i forhold til kontrakt**
+
+Gruppearbeidet for gruppe 22 har så langt overholdt mål om at alle medlemmer deltar på oppgavene som skal fullføres. Dette gjelder også denne oppgaven, hvorav alle medlemmer har bidratt aktivt til de ulike segmenter av oppgaven som skal gjennomføres. Reglene i forhold til gjensidig respekt ovenfor andre, og tilpasning med uforutsette avvik har blitt fulgt opp uten altfor store frafall på verken tilbakemelding eller informasjonsflyt. I forhold til gruppekontakten har vi gjort rede for at medlemmene blir å gi ulik innsats, slik at forventninger til enkeltmedlemmer stemmer overens med arbeidernes virkelige yteevne.
+
+Med tanke på de utfordringene vi har kommet over så langt så tenker vi at gruppens videre mål for forbedringer blir å handle om å styrke gruppens oppmøtetid i forhold til avtalte klokkeslett. Vi kan også forbedre tilbakemeldingsfrekvensen med avvik fra oppmøte slik at alle medlemmer er klare over hvem som kommer, eventuelt om noen ikke har mulighet å yte på en oppgave. Det har oppstått litt intern friksjon i forhold til enkelte medlemmers litt svakere yteevne, men også litt holdning. Dette tenker vi å løse med å danne et evalueringsmøte der målet er å sette søkelys på å styrke gruppens videre innsats. 
+
+Så langt i semesteret har vi konkludert med at vi må styrke vår kommunikasjon slik at vi kan få redegjort for konflikter før ulike utfordringer blir til større problemer. Likevel skal gruppen fortsette å holde den gode praten, vise respekt, og holde hverandre likeverd.  Videre arbeid blir å handle om å sikre fremtidig frafall for hvert enkelt medlem, respektere andres synspunkter, samt ikke overskride andres bidrag. Dette blir å gjelde til tross for at frister kan lage press for fullføring, noe som blant annet kan påvirke enkelte gruppemedlemmers respekt. Vi har også bestemt oss for å ha en sosial sammenkomst for å bli bedre kjent med hverandre på et personlig nivå. 
 
