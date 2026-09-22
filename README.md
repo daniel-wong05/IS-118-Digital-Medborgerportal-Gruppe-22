@@ -21,6 +21,63 @@ Prosjektet skaper et hierarkiets samspill som kan påvirke negativt på gruppens
 
 For eksempel kan en organisasjon representere noe «kjent» som medarbeidere i prosjektet har forholdt seg til tidligere. Derfor kan det være et gode å hyre flere fra samme arbeidsplass som byr på noen like fellestrekk. Det kan eksempelvis være delte regler, representerte mål, og erfaringer med prosjektarbeid. Hvis Erling evaluerer alder og kjønn som mulig grunnlag for uenigheter så kan han for eksempel finne ut at store sprik kan skape en viss følge/lede kultur, eller i verste fall skape konflikter. Målet handler om å skape en slags tillit, uten at medarbeiderne selv bruker for mye ressurser på overvåkning og kontroll over andre. (Jacobsen, 2016, s. 34-35).
 
+**Det første møtet** 
+
+Det første møtet i prosjektgruppen er en sentral del av prosjektets tidlige fase. Her presenteres teammedlemmene for hverandre, og man avklarer hvordan arbeidsfordeling, felles forståelse av mål og relasjonsbygging kan bidra til å ivareta medlemmenes ulike interesser og kompetanser. (Jacobsen, 2016, s.37) 
+
+Det er viktig å ta utgangspunkt i at teammedlemmene ikke kjenner hverandre. Dette gir alle i teamet en mulighet til å bli kjent med hverandre og bygge relasjoner, også omtalt som pseudo arbeid. (Jacobsen, 2016, s.37) 
+
+Når det gjelder selve møtet, er det viktig å ha en konkret plan for hvordan det skal gjennomføres. Derfor er det fornuftig å dele opp møtet i ulike seksjoner. Nedenfor er et forslag på en effektiv struktur til oppstartsmøtet. (Jacobsen, 2016, s.37) 
+
+**Velkommen og introduksjon til oppstartsmøtet (ca. 15 min)** 
+
+Målet i introduksjonen er at teammedlemmene skal få en forståelse for hvordan møtet er strukturert. Teamet skal få kunnskap om hvorfor akkurat denne gruppa er satt sammen og hvorfor møtet er så viktig. I tillegg informeres det om varigheten av de forskjellige seksjonene og pausene. 
+
+**Relasjonsbygging og pseudo-arbeid (ca. 30 min)** 
+
+Relasjonsbygging og pseudo-arbeid i denne gruppa er viktig fordi det er forskjellige synspunkter og erfaringer i gruppa. Relasjonsbygging vil skape en balanse i gruppa i forhold til arbeidsdeltakelse og maktbalanse. (Jacobsen, 2016, s.38-39) 
+
+Erling forklarer hensikten og viktigheten med relasjonsbygging. (10 min) 
+
+Gruppe-intervju: Det blir dannet grupper på 2-4 folk som skal forsøke å bli bedre kjent. (20 min) 
+
+(10 minutters pause) 
+
+**Mål og presentasjon av prosjektet (ca. 40 min)** 
+
+Erling forteller hvorfor prosjektet finnes og hvem som har gitt han ledelsen. Deretter presenteres det om hva prosjektet innebærer, hva sluttmålet er og hva som skal til for at det nås.  (25 min) 
+
+På slutten gjør Erling en kort sjekk om alle har forstått målet, og at alle har samme oppfattelse. (15 min) 
+
+**Arbeidsfordeling og roller (ca. 30 min)** 
+
+målet er å tydeliggjøre hvem som skal gjøre hva og hvorfor det er viktig å informere om hvordan de ulike kompetansene skal utnyttes. Erling presenterer et forslag til arbeidsfordelingen basert på tidligere erfaring. (10 min) (Jacobsen, 2016, s.38) 
+
+Gruppemedlemmene skal deretter informere om hvor de ønsker å bidra mest, og ta eierskap til egen rolle. (10 min) 
+
+Det skal avsluttes med at alle bekrefter rollen sin og at de forstår hva det vil innebære. (10 min) 
+
+(10 minutters pause) 
+
+**Regler og forventinger til teamet (ca. 30 min)** 
+
+Teammedlemmene skal ha felles regler og forventninger til teamet, som senere kan noteres i gruppekontrakten. 
+
+Det må avtales hvor det skal kommuniseres og forventninger til responstid. (10 min)  
+
+Forventninger til deltagelse er nødvendig å avklare fra start slik at ingen bitterhet eller konflikter oppstår i teamet. (15 min) 
+
+Det må avklares hvem som bestemmer hva, hvordan uenighet i teamet håndteres og hele beslutningsprosessen. (5 min) 
+
+**Oppsummering og veien videre (ca. 30 min)** 
+
+Erling må sørge for at teammedlemmene har en felles forståelse på hva som er avtalt, at alle er enige, og veien videre. 
+
+Erling gjennomgår raskt hovedpunktene fra møtet. (5 min) 
+
+En konkret plan for videre steg må avklares i teamet. Erling må sørge for at alle forstår hva stegene innebærer. (20 min) 
+
+Erling avslutter møtet og takker alle for å møte opp. (5 min) 
 
 **Rasjonelle kontrakter og rammer for utforming som kan styrke prosjektarbeidet.**
 
