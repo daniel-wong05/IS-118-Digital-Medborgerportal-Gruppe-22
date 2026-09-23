@@ -140,7 +140,7 @@ I det første møtet bør ikke Erling gå rett på sak om prosjektet, men heller
 **Åpenhet** – Alle forslag bør legges frem og snakkes om, slik som strategi, informasjon og uforutsett ting som kan bidra til prosjektet.
 (Jacobsen, 2016, s.82)
 
-**håndtering av tidspress og planleggingsfelle**
+**Håndtering av tidspress og planleggingsfelle**
 
 Alle prosjekter har en tidsfrist og noen mål som skal nås. Når disse to tingene kombineres kan det oppstå et sterkt press om å handle raskt (Jacobsen, s.47). Når målene er klare og tiden er knapp, er det lett å tenke at man bare må komme i gang. Da kan handling fort bli viktigere enn å analyse og planlegging. Den første fasen av prosjektet kan dermed oppfattes som lite produktiv. Det føles rett og slett mer nyttig å begynne å jobbe enn å bruke tid på planlegging, bli kjent med hverandre eller snakke om mulige konflikter i gruppen (Jacobsen, s. 47). 
 Selv om man setter av tid til planlegging, er det likevel lett å havne i det Jacobsen kaller planleggingsfellen. Det handler om at man ofte undervurderer hvor lang tid prosjektet i virkelighet vil ta. Det interessante er at dette kan skje selv når man har erfaring fra tidligere prosjekter der tidsplanene ikke holdt (Jacobsen, s.48). En mulig forklaring er det Jacobsen beskriver som optimismeskjevhet. De som planlegger prosjektet, er ofte valgt fordi andre har tro på dem og mener at de kan lykkes. Samtidig kan det være nødvendig med en viss optimisme for å holde motivasjonen oppe. Dermed kan det bli vanskeligere å ta fullt inn over seg hvor mye usikkerhet prosjektet egentlig inneholder (Jacobsen, s.48-49).
